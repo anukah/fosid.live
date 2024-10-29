@@ -2,7 +2,7 @@
 
 Played a significant role in the team responsible for implementing this web app which was used at Industry Day - 2024 organized by the Faculty of Science - University of Peradeniya.
 
-This Platform facilitated the smooth running of the day which included User Regustration, Queue Management, Room Management etc..
+This Platform facilitated the smooth running of the day which included User Registration, Queue Management, Room Management etc..
 
 ## Interface
 ### Homepage
